@@ -8,7 +8,7 @@ Forked from [https://github.com/google/protobuf](https://github.com/google/proto
 
 How to compile
 --------------
-Open the project file (./csharp/src/Google.Protobuf/Google.Protobuf.Unity.csproj) in MonoDevelope (or Visual Studio, Xamarin Studio) an build.
+Open the project file (./csharp/src/Google.Protobuf/Google.Protobuf.Unity.csproj) in MonoDevelope (or Visual Studio, Xamarin Studio) and build.
 
 How to use
 ----------
